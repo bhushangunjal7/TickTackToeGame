@@ -19,7 +19,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         System.out.println("Welcome to tick tack toe Game.....");
-        System.out.println("Welcome to Bhushans Games");
+        System.out.println("Welcome to Bhushans Games....");
         GameController gameController=new GameController();
 
 
